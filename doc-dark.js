@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DOC Dark Mode Fix
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Fixes dark mode toggle on doctorofcredit.com
 // @author       sacrosaunt
 // @match        https://www.doctorofcredit.com/*
