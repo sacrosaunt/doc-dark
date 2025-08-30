@@ -11,6 +11,9 @@ A userscript that fixes dark mode functionality on [doctorofcredit.com](https://
 ## Installation
 
 ### Option 1: Easy Installation via Greasy Fork (Recommended)
+Click this button:
+
+
 [![Install](https://img.shields.io/badge/Install-Greasy%20Fork-brightgreen)](https://greasyfork.org/en/scripts/547788-doc-dark-mode-fix)
 
 ### Option 2: Manual Installation
